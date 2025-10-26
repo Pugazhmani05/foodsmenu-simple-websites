@@ -1,0 +1,47 @@
+*{
+    text-align: center;
+}
+.section-1{
+    background-color: black; color: aliceblue;
+    margin: 10px;
+    padding: 10px;
+} 
+.section-1__2{
+color:burlywood;
+padding: 10px;
+margin: 10px;
+}
+.section-2,.section-3,.section-4,.section-5{
+    display: inline-block;
+    border: solid black 1px;
+    margin: 10px;
+width: 300px;
+height: 400px;
+padding: 0px;
+vertical-align: top;
+}
+.section-6 ,.section-6__2{
+    background-color: black;color: aliceblue;
+    padding: 0px;
+}
+.section-7,.section-7__1{
+    border: solid yellowgreen ;
+    background-color: yellow;color: black;
+    border: none;
+}
+table{
+    margin:0 auto;
+    text-align: center;
+}
+button{
+    background-color: black; 
+    color: aliceblue;
+    border: solid black 1px;
+    padding: 15px;
+    text-align: center;
+}
+body{
+    background-image:url(https://tse4.mm.bing.net/th/id/OIP.x0XWo3MFtviF1zU20r8UaQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
